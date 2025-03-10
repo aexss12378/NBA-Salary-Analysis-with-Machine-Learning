@@ -115,6 +115,7 @@ Ridge regression模型採用的loss function為RMSE與R-squared：
 - 在測試集的最終結果為RMSE：6,745,018 ; R-square為0.741，模型解釋了 74.1% 的變異性。實際與預測圖。
 
 Random Forest的重要性變數圖，可以發現PPG (均分)對薪水的預測的重要性非常高。其次為Age (年齡)、FG (進球數)、TOV% (失誤率)、GS (先發場次)、STL (搶斷)、PF (犯規)。如果只使用Elastic net找出的變數放入隨機森林訓練，可以發現在訓練集與測試集的誤差都有下降。
+![image](https://github.com/user-attachments/assets/d6552dd9-c60d-424b-8d3b-fa78b62362c3)
 
 | 訓練集RMSE | 訓練集R² | 測試集RMSE | 測試集R² |
 | --- | --- | --- | --- |
