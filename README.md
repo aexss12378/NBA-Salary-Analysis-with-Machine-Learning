@@ -130,5 +130,3 @@ Random Forest的重要性變數圖，可以發現PPG (均分)對薪水的預測�
 - Predicting NBA Player Salaries for the 2022–23 Season: [YouTube](https://www.youtube.com/watch?v=hyo5_dYjF0o)
 
 ---
-
-這樣的格式應該更加清晰和易讀。希望這對你有幫助！
