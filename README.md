@@ -1,5 +1,3 @@
-以下是修正後的 README.md 文件格式：
-
 ---
 
 # NBA-Salary-Analysis-with-Machine-Learning
